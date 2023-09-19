@@ -53,3 +53,6 @@ Analyze the South Region: Given the South region’s relatively lesser contribut
 Investigate sustainability measures given that consumers are becoming more aware of environmentally friendly goods and activities. This might expand the company’s market reach and improve its standing.
 
 Continue investing in market research to find new trends and consumer preferences. By doing so, you’ll be able to stay one step ahead of the competition and adjust to shifting market dynamics.
+
+![ecommerce dashboard](https://github.com/omojuwaseun/E-commerce_Analysis/assets/119857809/db80b2ac-2277-4b5e-b93d-bdf2a150ae93)
+
